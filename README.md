@@ -25,7 +25,7 @@ Esse é um dos projetos desenvolvidos em aula na formação Full-stack, um dos c
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="./src/assets/.github/Cover.png" width="100%">
+  <img alt="projeto DevLinks" src="./src/assets/.github/Cover.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -47,7 +47,3 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
-
----
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
