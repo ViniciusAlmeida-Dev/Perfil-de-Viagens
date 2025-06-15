@@ -38,7 +38,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- [Acesse o projeto finalizado, online](https://caiovinicius-full-stack.github.io/Perfil-de-Viagens-Rocketseat/)
+- [Acesse o projeto finalizado, online](https://viniciusalmeida-dev.github.io/Perfil-de-Viagens/)
 
 ## 🔖 Layout
 
